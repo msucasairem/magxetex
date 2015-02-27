@@ -1,0 +1,2 @@
+# magxetex
+Xetext magazine template
